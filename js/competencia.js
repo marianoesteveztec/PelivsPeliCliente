@@ -1,5 +1,5 @@
 // Esta es la ip y puerto en que necesitamos que esté el backend disponible
-var server = 'http://ip172-18-0-58-bblg7mvndhl000bqpup0-32768.direct.labs.play-with-docker.com/:8080';
+var server = 'http://ip172-18-0-58-bblg7mvndhl000bqpup0-32769.direct.labs.play-with-docker.com/competencias:8080';
 
 function CompetenciasController () {
 
